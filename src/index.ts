@@ -7,7 +7,7 @@ import { Inspector } from 'three/examples/jsm/inspector/Inspector.js'
 // =======================
 const canvas = document.querySelector<HTMLCanvasElement>('canvas')!
 
-const renderer = new THREE.WebGPURenderer({ canvas })
+const renderer = new THREE.WebGPURenderer({ canvas, antialias: true })
 renderer.setPixelRatio(Math.max(window.devicePixelRatio, 2))
 renderer.inspector = new Inspector()
 renderer.outputColorSpace = THREE.NoColorSpace
