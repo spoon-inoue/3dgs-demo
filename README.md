@@ -69,4 +69,4 @@ PCで動画ファイルから無料で作成する
 - [3D Gaussian Splatting の概要](https://note.com/npaka/n/ncd4b84c1e2eb)
 - [初心者も挑戦！3D Gaussian Splattingで作るリアル3Dモデリング入門](https://developer.mamezou-tech.com/robotics/3dgs/3dgs-beginners-guide/)
 - [Three.jsでの3Dガウシアンスプラッティング入門](https://ics.media/entry/260917/)
-- [IZUTSUYA INC.](https://izutsuya.io/)"# 3dgs-demo" 
+- [IZUTSUYA INC.](https://izutsuya.io/)
