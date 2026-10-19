@@ -1,5 +1,7 @@
 # 3DGS Demo
 
+https://spoon-inoue.github.io/3dgs-demo/
+
 Three.jsでは`r186`（2026.09.08）から、3DGSを扱えるようになった。
 
 ## 3DGSとは
