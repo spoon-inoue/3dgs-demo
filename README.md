@@ -67,6 +67,7 @@ PCで動画ファイルから無料で作成する
 - [3Dガウシアンスプラッティング完全ガイド：サービス比較・活用事例・Webビューワー（2026年版）](https://www.utsubo.com/ja/blog/gaussian-splatting-guide)
 - [3DGS完全に理解した](https://www.docswell.com/s/masanaga/Z4489W-2026-01-19-224429)
 - [3D Gaussian Splatting の概要](https://note.com/npaka/n/ncd4b84c1e2eb)
+- [今こそ知りたい3D Gaussian Splatting](https://www.youtube.com/watch?v=9VH3vnffgvo)
 - [初心者も挑戦！3D Gaussian Splattingで作るリアル3Dモデリング入門](https://developer.mamezou-tech.com/robotics/3dgs/3dgs-beginners-guide/)
 - [Three.jsでの3Dガウシアンスプラッティング入門](https://ics.media/entry/260917/)
 - [IZUTSUYA INC.](https://izutsuya.io/)
