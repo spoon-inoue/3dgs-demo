@@ -52,7 +52,7 @@ Three.jsでは`r186`（2026.09.08）から、3DGSを扱えるようになった�
 - [postshot](https://www.jawset.com/)
   - 無料でも使えるけど、実質有料。ローカルで動く。学習にcudaを使うためwindowsのみ。動画ファイルをimportしてサンプリング、編集などができる。
 - [SPARK](https://sparkjs.dev/)
-  - Three.js用の3DGSレンダリングライブラリ。
+  - Three.js用の3DGSレンダリングライブラリ。(現状は、Three.jsにAddonとして内包されているライブラリを使う？)
 
 PCで動画ファイルから無料で作成する
 1. 動画ファイル（mp4, mov）から、FFmpegなどで画像を抽出する
